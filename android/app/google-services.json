@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989438442920",
+    "project_id": "gapsap-67946",
+    "storage_bucket": "gapsap-67946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989438442920:android:c2d3718d5883cbe569319d",
+        "android_client_info": {
+          "package_name": "com.gapsap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989438442920-qnamr4ufbg17pb00ih0g18g71acgqs4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALC7RjmmEn1mEe3owGDN-FBIBhbf5Nhq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989438442920-qnamr4ufbg17pb00ih0g18g71acgqs4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
